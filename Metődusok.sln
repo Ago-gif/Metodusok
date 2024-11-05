@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metődusok", "Metődusok\Metődusok.csproj", "{8F56AE48-7EA7-4972-A4C2-FFE4467D4991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F56AE48-7EA7-4972-A4C2-FFE4467D4991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F56AE48-7EA7-4972-A4C2-FFE4467D4991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F56AE48-7EA7-4972-A4C2-FFE4467D4991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F56AE48-7EA7-4972-A4C2-FFE4467D4991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF8B47C2-7F64-4322-841A-94F7F705ED9C}
+	EndGlobalSection
+EndGlobal
